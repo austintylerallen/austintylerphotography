@@ -58,7 +58,7 @@ const Navbar = ({ scrollToFooter }) => {
           my work
         </a>
         <a
-          href="https://AustinTyler.pixieset.com/booking/"
+          href="https://austintylerphoto.as.me/"
           target="_blank"
           rel="noopener noreferrer"
           className="block text-lg lowercase text-gray-600 hover:underline hover:text-gray-800 transition duration-300"
